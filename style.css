@@ -74,7 +74,7 @@
 }
 #home::before{
     content: "";
-    background:url('../zi1.jpg')no-repeat center center/cover;
+    background:url('zi1.jpg')no-repeat center center/cover;
     position: absolute;
     height: 370px;
     top: 0px;
